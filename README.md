@@ -5,7 +5,7 @@ This repository demonstrates how to design modular big-data pipelines, clean lar
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 The project is divided into **four major analytical modules**, each originally designed as a standalone task.  
 All questions have been re-implemented and extended into clean, professional Python modules.
