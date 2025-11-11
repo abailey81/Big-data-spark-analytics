@@ -1,4 +1,4 @@
-# Big Data Analytics with PySpark 🚀
+# Big Data Analytics with PySpark 
 
 A complete, production-style analytics project built with **Apache Spark**, covering batch processing, graph analytics, and real-time streaming.  
 This repository demonstrates how to design modular big-data pipelines, clean large datasets, perform advanced transformations, and generate insights at scale.
@@ -19,20 +19,20 @@ All questions have been re-implemented and extended into clean, professional Pyt
 
 ---
 
-## 🧩 Repository Structure
+##  Repository Structure
 
 
 
 ---
 
-## 📘 Task Summaries & Questions
+##  Task Summaries & Questions
 
 Below are the **analytical objectives** rephrased from the original coursework instructions.  
 Each “Question X” corresponds to a dedicated, runnable script under the relevant `src/` folder.
 
 ---
 
-### 🟨 **Task 1 – NYC Yellow Taxi (Batch Analytics)**  
+###  **Task 1 – NYC Yellow Taxi (Batch Analytics)**  
 **Goal:** Use PySpark DataFrames to perform cleaning, transformation, and exploratory analysis.
 
 **Questions implemented:**
@@ -48,7 +48,7 @@ Each “Question X” corresponds to a dedicated, runnable script under the rele
 
 ---
 
-### 🟪 **Task 2 – Ethereum Transactions (Exploratory Analytics)**  
+###  **Task 2 – Ethereum Transactions (Exploratory Analytics)**  
 **Goal:** Analyse blockchain transaction data to uncover time and value patterns.
 
 **Questions implemented:**
@@ -63,7 +63,7 @@ Each “Question X” corresponds to a dedicated, runnable script under the rele
 
 ---
 
-### 🟩 **Task 3 – NYC Taxi Network (Graph Analytics)**  
+###  **Task 3 – NYC Taxi Network (Graph Analytics)**  
 **Goal:** Construct and analyse a graph representation of taxi trips.
 
 **Questions implemented:**
@@ -78,7 +78,7 @@ Each “Question X” corresponds to a dedicated, runnable script under the rele
 
 ---
 
-### 🟦 **Task 4 – NASA Logs (Streaming Analytics)**  
+###  **Task 4 – NASA Logs (Streaming Analytics)**  
 **Goal:** Build a Spark Structured Streaming pipeline for NASA web server logs.
 
 **Questions implemented:**
@@ -93,7 +93,7 @@ Each “Question X” corresponds to a dedicated, runnable script under the rele
 
 ---
 
-## ⚙️ Setup & Execution
+##  Setup & Execution
 
 ### Local run (macOS)
 ```bash
