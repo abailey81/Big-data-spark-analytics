@@ -10,3 +10,12 @@ data/
 outputs/
 .vscode/
 .history/
+
+# Spark runtime
+metastore_db/
+spark-warehouse/
+derby.log
+*.log
+
+# Environment
+.env
