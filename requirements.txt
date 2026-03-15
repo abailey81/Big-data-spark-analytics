@@ -1,3 +1,5 @@
-pyspark>=3.5
-pandas>=2.0
-matplotlib>=3.8
+pyspark>=3.5,<4.0
+pandas>=2.0,<3.0
+matplotlib>=3.8,<4.0
+graphframes>=0.8
+boto3>=1.26
